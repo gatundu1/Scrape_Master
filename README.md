@@ -1,3 +1,3 @@
-# DoWebScraper
+# Scrape Master
 
-This is a Chrome Extension that I worked on a few years ago. 
+Scrape Master is a Chrome extension project for a web scraper that can extract data from structured HTML into .txt or .CSV formats. 
